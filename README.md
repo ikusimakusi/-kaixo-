@@ -1,1 +1,2 @@
 # -kaixo-
+lehenengo aldaketa
