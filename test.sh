@@ -1,2 +1,1 @@
-echo 'eeeee'
 echo 'txiki'
